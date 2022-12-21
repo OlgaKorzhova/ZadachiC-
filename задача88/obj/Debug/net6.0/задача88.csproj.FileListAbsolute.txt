@@ -1,0 +1,15 @@
+C:\gb\seminar1c#\задача88\bin\Debug\net6.0\задача88.exe
+C:\gb\seminar1c#\задача88\bin\Debug\net6.0\задача88.deps.json
+C:\gb\seminar1c#\задача88\bin\Debug\net6.0\задача88.runtimeconfig.json
+C:\gb\seminar1c#\задача88\bin\Debug\net6.0\задача88.dll
+C:\gb\seminar1c#\задача88\bin\Debug\net6.0\задача88.pdb
+C:\gb\seminar1c#\задача88\obj\Debug\net6.0\задача88.csproj.AssemblyReference.cache
+C:\gb\seminar1c#\задача88\obj\Debug\net6.0\задача88.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\seminar1c#\задача88\obj\Debug\net6.0\задача88.AssemblyInfoInputs.cache
+C:\gb\seminar1c#\задача88\obj\Debug\net6.0\задача88.AssemblyInfo.cs
+C:\gb\seminar1c#\задача88\obj\Debug\net6.0\задача88.csproj.CoreCompileInputs.cache
+C:\gb\seminar1c#\задача88\obj\Debug\net6.0\задача88.dll
+C:\gb\seminar1c#\задача88\obj\Debug\net6.0\refint\задача88.dll
+C:\gb\seminar1c#\задача88\obj\Debug\net6.0\задача88.pdb
+C:\gb\seminar1c#\задача88\obj\Debug\net6.0\задача88.genruntimeconfig.cache
+C:\gb\seminar1c#\задача88\obj\Debug\net6.0\ref\задача88.dll
